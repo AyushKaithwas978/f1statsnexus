@@ -7,13 +7,13 @@ Live site: https://f1statsnexus.cloud
 ## Demos
 
 ### Demo 1
-<video src="vid/gif%201.mp4" controls muted playsinline></video>
+![Demo 1](vid/gif%201.gif)
 
 ### Demo 2
-<video src="vid/gif%202.mp4" controls muted playsinline></video>
+![Demo 2](vid/gif%202.gif)
 
 ### Demo 3
-<video src="vid/gif%203.mp4" controls muted playsinline></video>
+![Demo 3](vid/gif%203.gif)
 
 ## Key Capabilities
 - Live timing and telemetry with real-time updates for session strategy, lap deltas, and on-track positioning
