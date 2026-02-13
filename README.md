@@ -1,21 +1,21 @@
-﻿# F1StatsNexus
+﻿# 🏎️ F1StatsNexus
 
 F1StatsNexus is a professional-grade Formula 1 analytics platform that consolidates live telemetry, advanced race intelligence, season standings, circuits, schedules, predictions, and curated news into a single, streamlined experience.
 
 Live site: https://f1statsnexus.cloud
 
-## Demos
+## 🎬 Demos
 
-### Demo 1
+### 🟢 Demo 1
 ![Demo 1](vid/gif%201.gif)
 
-### Demo 2
+### 🟡 Demo 2
 ![Demo 2](vid/gif%202.gif)
 
-### Demo 3
+### 🔴 Demo 3
 ![Demo 3](vid/gif%203.gif)
 
-## Key Capabilities
+## 🧠 Key Capabilities
 - Live timing and telemetry with real-time updates for session strategy, lap deltas, and on-track positioning
 - Deep analytics suite covering minisectors, speed traps, gap-to-leader, race pace, pit stops, strategy history, long stints, and scatter analysis
 - Season dashboards with driver and constructor standings, points progression, and recent results highlights
